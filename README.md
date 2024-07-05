@@ -2,9 +2,9 @@
 A collection of titles from the series "Ys". Past, present, and future releases all collated and available for web browser/ online play.
 
 Info: 
-https://www.worldofys.com/
-https://isu.fandom.com/wiki/Ys_(series)
-https://en.wikipedia.org/wiki/Ys_(series)
+- https://www.worldofys.com/
+- https://isu.fandom.com/wiki/Ys_(series)
+- https://en.wikipedia.org/wiki/Ys_(series)
 
 For brevity, this serves as a central hub for all Ys titles. 
 
